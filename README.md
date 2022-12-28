@@ -1,6 +1,6 @@
 API to CalCab
 ---
-Simple API written in Python, using FastAPI to calculate Network Cabling size Projects
+Simple API written in Python using FastAPI, to calculate cabling projects size.
 
 1 - Install requirements using: pip install -r requirements.txt
 
